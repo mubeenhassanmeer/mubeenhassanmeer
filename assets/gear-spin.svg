@@ -1,0 +1,15 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" width="120">
+  <g fill="#8A7CFF" transform="translate(0,0)">
+    <path d="M100 20 L112 20 L116 42 L128 46 L146 32 L156 42 L142 60 L146 72 L168 76 L168 88 L146 92 L142 104 L156 122 L146 132 L128 118 L116 122 L112 144 L100 144 L96 122 L84 118 L66 132 L56 122 L70 104 L66 92 L44 88 L44 76 L66 72 L70 60 L56 42 L66 32 L84 46 L96 42 Z">
+      <animateTransform attributeName="transform" type="rotate" from="0 106 82" to="360 106 82" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="106" cy="82" r="22" fill="#20203a" stroke="#4CFFC4" stroke-width="4"/>
+  </g>
+
+  <g fill="#4CFFC4" transform="translate(-30,80) scale(0.5)">
+    <path d="M100 20 L112 20 L116 42 L128 46 L146 32 L156 42 L142 60 L146 72 L168 76 L168 88 L146 92 L142 104 L156 122 L146 132 L128 118 L116 122 L112 144 L100 144 L96 122 L84 118 L66 132 L56 122 L70 104 L66 92 L44 88 L44 76 L66 72 L70 60 L56 42 L66 32 L84 46 L96 42 Z">
+      <animateTransform attributeName="transform" type="rotate" from="360 106 82" to="0 106 82" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="106" cy="82" r="22" fill="#20203a" stroke="#8A7CFF" stroke-width="4"/>
+  </g>
+</svg>

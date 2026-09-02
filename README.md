@@ -2,20 +2,25 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mubeen+%F0%9F%91%8B;Robotics+%26+AI+Student;IEEE+UCP+Vice+President;Automation+%26+RPA+Builder;Turning+Ideas+Into+Robots+%F0%9F%A4%96" alt="Typing SVG" />
 
+<img src="https://raw.githubusercontent.com/mubeenhassanmeer/mubeenhassanmeer/main/assets/robot-wave.svg" width="140" alt="waving robot" />
+
 </div>
 
 ### 🧠 About Me
 
 I'm a Robotics & Intelligent Systems student at the **University of Central Punjab**,
-currently in my 6th semester with a **3.91/4.00 CGPA**. I build things that move,
-things that automate, and lately, things that think — spanning hardware robotics,
-RPA bots, and AI coding agents.
+currently in my 6th semester. I build things that move, things that automate, and
+lately, things that think — spanning hardware robotics, RPA bots, and AI coding agents.
 
 - 🎓 BS Robotics & Intelligent Systems, UCP (2023–2027)
 - 🧑‍💼 Vice President, **IEEE UCP Student Branch**
 - ⚙️ Automation Trainee @ **SkyPower Pvt. Ltd** — inventory & reporting automation
 - 🤝 Student Pedagogy Partner (AI) @ Learning Innovation Centre, UCP
 - 🏆 Emerging Star of the Year — IEEE Lahore Section, 2026
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mubeenhassanmeer/mubeenhassanmeer/main/assets/gear-spin.svg" width="110" alt="spinning gears" />
+</div>
 
 ### 🔭 Currently Building
 
@@ -27,6 +32,8 @@ RPA bots, and AI coding agents.
 
 ### 🦾 Past Robotics & Automation Projects
 
+<img align="right" src="https://raw.githubusercontent.com/mubeenhassanmeer/mubeenhassanmeer/main/assets/robot-build.svg" width="150" alt="robot stacking blocks" />
+
 *(built during coursework and internships — repos available on request)*
 
 - **Lower Limb Exoskeleton** — assistive robotics
@@ -34,6 +41,8 @@ RPA bots, and AI coding agents.
 - **Bin-e Smart Waste Bin**
 - **Obstacle Avoidance Robot**
 - **UiPath Autonomous Outreach Robot**
+
+<br clear="right"/>
 
 ### 🛠️ Skills
 
@@ -66,9 +75,9 @@ RPA bots, and AI coding agents.
   <img src="https://streak-stats.demolab.com?user=mubeenhassanmeer&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📫 Reach Me
+### 📫 Connect
 
-📧 mobinmeer5@gmail.com
+Open to connecting — drop a message via [GitHub](https://github.com/mubeenhassanmeer) or find me on LinkedIn.
 
 ---
 

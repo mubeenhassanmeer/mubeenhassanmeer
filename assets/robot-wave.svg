@@ -1,0 +1,39 @@
+<svg viewBox="0 0 200 220" xmlns="http://www.w3.org/2000/svg" width="140">
+  <defs>
+    <style>
+      @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+      .bot { animation: float 3s ease-in-out infinite; transform-origin: center; }
+    </style>
+  </defs>
+  <g class="bot">
+    <line x1="100" y1="18" x2="100" y2="40" stroke="#8A7CFF" stroke-width="4"/>
+    <circle cx="100" cy="14" r="7" fill="#8A7CFF">
+      <animate attributeName="fill" values="#8A7CFF;#4CFFC4;#8A7CFF" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <rect x="58" y="40" width="84" height="72" rx="16" fill="#20203a" stroke="#8A7CFF" stroke-width="3"/>
+    <circle cx="82" cy="72" r="9" fill="#4CFFC4">
+      <animate attributeName="ry" values="9;9;1;9" keyTimes="0;0.85;0.9;1" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="118" cy="72" r="9" fill="#4CFFC4">
+      <animate attributeName="ry" values="9;9;1;9" keyTimes="0;0.85;0.9;1" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="84" y="92" width="32" height="6" rx="3" fill="#8A7CFF"/>
+
+    <rect x="66" y="112" width="68" height="64" rx="12" fill="#20203a" stroke="#8A7CFF" stroke-width="3"/>
+    <circle cx="100" cy="144" r="14" fill="none" stroke="#4CFFC4" stroke-width="3">
+      <animateTransform attributeName="transform" type="rotate" from="0 100 144" to="360 100 144" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <rect x="40" y="120" width="22" height="10" rx="5" fill="#8A7CFF"/>
+
+    <g>
+      <rect x="134" y="112" width="46" height="10" rx="5" fill="#8A7CFF">
+        <animateTransform attributeName="transform" type="rotate" values="0 138 117;-45 138 117;0 138 117;-45 138 117;0 138 117" dur="2.2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <circle cx="82" cy="188" r="9" fill="#8A7CFF"/>
+    <circle cx="118" cy="188" r="9" fill="#8A7CFF"/>
+  </g>
+</svg>

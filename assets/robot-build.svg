@@ -1,0 +1,49 @@
+<svg viewBox="0 0 220 200" xmlns="http://www.w3.org/2000/svg" width="150">
+  <!-- base -->
+  <rect x="20" y="170" width="30" height="20" rx="3" fill="#20203a" stroke="#8A7CFF" stroke-width="3"/>
+
+  <!-- arm: shoulder joint at (35,170), swings to pick block and place on stack -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 35 170; -35 35 170; -35 35 170; 10 35 170; 10 35 170; 0 35 170"
+      keyTimes="0;0.2;0.45;0.65;0.9;1"
+      dur="4s" repeatCount="indefinite"/>
+
+    <rect x="30" y="110" width="10" height="60" rx="4" fill="#8A7CFF"/>
+
+    <g>
+      <animateTransform attributeName="transform" type="rotate"
+        values="0 35 110; 60 35 110; 60 35 110; -20 35 110; -20 35 110; 0 35 110"
+        keyTimes="0;0.2;0.45;0.65;0.9;1"
+        dur="4s" repeatCount="indefinite"/>
+      <rect x="30" y="60" width="10" height="52" rx="4" fill="#4CFFC4"/>
+
+      <!-- gripper -->
+      <g transform="translate(35,60)">
+        <rect x="-14" y="-6" width="10" height="16" rx="2" fill="#4CFFC4"/>
+        <rect x="4" y="-6" width="10" height="16" rx="2" fill="#4CFFC4"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- block being carried -->
+  <rect x="21" y="42" width="20" height="20" rx="3" fill="#FFD166">
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; 60,60; 60,60; 130,88; 130,88; 0,0"
+      keyTimes="0;0.2;0.45;0.65;0.9;1"
+      dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;1;1;0;0;1" keyTimes="0;0.2;0.45;0.65;0.66;0.9;1" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- stack that grows: three blocks fading in in sequence, looping -->
+  <rect x="150" y="130" width="26" height="26" rx="3" fill="#FFD166" opacity="0.95"/>
+  <rect x="150" y="102" width="26" height="26" rx="3" fill="#8A7CFF">
+    <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.6;0.68;0.9;0.98;1" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="150" y="74" width="26" height="26" rx="3" fill="#4CFFC4">
+    <animate attributeName="opacity" values="0;0;0;0;1;0" keyTimes="0;0.6;0.9;0.95;0.98;1" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ground line -->
+  <line x1="0" y1="190" x2="220" y2="190" stroke="#8A7CFF" stroke-width="2" opacity="0.4"/>
+</svg>
