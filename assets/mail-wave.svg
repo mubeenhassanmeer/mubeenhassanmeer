@@ -1,0 +1,23 @@
+<svg viewBox="0 0 160 120" xmlns="http://www.w3.org/2000/svg" width="120">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-6;0,0" dur="2s" repeatCount="indefinite"/>
+    <rect x="40" y="40" width="80" height="56" rx="8" fill="#20203a" stroke="#8A7CFF" stroke-width="3"/>
+    <path d="M40 44 L80 76 L120 44" fill="none" stroke="#4CFFC4" stroke-width="3"/>
+  </g>
+  <g stroke="#4CFFC4" stroke-width="3" fill="none">
+    <path d="M128 60 Q138 68 128 76">
+      <animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M134 52 Q150 68 134 84">
+      <animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g stroke="#8A7CFF" stroke-width="3" fill="none">
+    <path d="M32 60 Q22 68 32 76">
+      <animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.15s" repeatCount="indefinite"/>
+    </path>
+    <path d="M26 52 Q10 68 26 84">
+      <animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.45s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

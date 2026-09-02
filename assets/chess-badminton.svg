@@ -1,0 +1,31 @@
+<svg viewBox="0 0 240 140" xmlns="http://www.w3.org/2000/svg" width="200">
+  <!-- chessboard squares -->
+  <g opacity="0.5">
+    <rect x="10" y="110" width="20" height="20" fill="#20203a"/>
+    <rect x="30" y="110" width="20" height="20" fill="#8A7CFF"/>
+    <rect x="50" y="110" width="20" height="20" fill="#20203a"/>
+    <rect x="70" y="110" width="20" height="20" fill="#8A7CFF"/>
+  </g>
+
+  <!-- knight piece hopping -->
+  <g fill="#4CFFC4">
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; 0,-18; 0,0; 0,0" keyTimes="0;0.2;0.4;1" dur="2.6s" repeatCount="indefinite"/>
+    <path d="M35 108 C30 90 45 78 40 65 C38 58 45 55 50 60 C58 68 58 82 55 92 L58 108 Z"/>
+    <rect x="30" y="106" width="30" height="6" rx="2"/>
+  </g>
+
+  <!-- badminton shuttle bouncing across -->
+  <g fill="#FFD166">
+    <animateTransform attributeName="transform" type="translate"
+      values="130,60; 190,10; 130,60; 190,10; 130,60" keyTimes="0;0.25;0.5;0.75;1" dur="3s" repeatCount="indefinite"/>
+    <circle cx="0" cy="0" r="6"/>
+    <path d="M0 0 L-14 20 L14 20 Z" opacity="0.85"/>
+  </g>
+
+  <!-- racket -->
+  <g stroke="#8A7CFF" stroke-width="3" fill="none">
+    <ellipse cx="195" cy="95" rx="16" ry="20" transform="rotate(20 195 95)"/>
+    <line x1="205" y1="112" x2="222" y2="132"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" width="110">
+  <g>
+    <animateTransform attributeName="transform" type="scale" values="0.6;1.15;0.95;1" keyTimes="0;0.5;0.75;1" dur="2.2s" repeatCount="indefinite" additive="sum"/>
+    <circle cx="80" cy="70" r="38" fill="#FFD166" stroke="#20203a" stroke-width="3"/>
+    <path d="M80 45 L88 62 L107 65 L93 79 L97 98 L80 88 L63 98 L67 79 L53 65 L72 62 Z" fill="#20203a"/>
+    <path d="M62 100 L52 140 L80 126 L108 140 L98 100" fill="#8A7CFF"/>
+  </g>
+  <g>
+    <line x1="30" y1="40" x2="18" y2="30" stroke="#4CFFC4" stroke-width="3">
+      <animate attributeName="opacity" values="0;1;0" dur="1.6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="130" y1="40" x2="142" y2="30" stroke="#4CFFC4" stroke-width="3">
+      <animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.4s" repeatCount="indefinite"/>
+    </line>
+    <line x1="130" y1="80" x2="146" y2="80" stroke="#4CFFC4" stroke-width="3">
+      <animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.8s" repeatCount="indefinite"/>
+    </line>
+    <line x1="30" y1="80" x2="14" y2="80" stroke="#4CFFC4" stroke-width="3">
+      <animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="1.2s" repeatCount="indefinite"/>
+    </line>
+  </g>
+</svg>
