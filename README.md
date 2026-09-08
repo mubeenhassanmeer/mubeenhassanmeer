@@ -16,7 +16,7 @@ lately, things that think — spanning hardware robotics, RPA bots, and AI codin
 
 - 🎓 BS Robotics & Intelligent Systems, UCP (2023–2027)
 - 🧑‍💼 Vice President, **IEEE UCP Student Branch**
-- ⚙️ Automation Trainee @ **SkyPower Pvt. Ltd** — inventory & reporting automation
+- ⚙️ **R&D Engineer (Team Lead)** @ **Creative Group of Companies** — leading 3 funded projects: an autonomous warehouse robot (also my FYP), a reverse-engineered inventory automation system, and a 3D printer build
 - 🤝 Student Pedagogy Partner (AI) @ Learning Innovation Centre, UCP
 - 🏆 Emerging Star of the Year — IEEE Lahore Section, 2026
 
@@ -53,35 +53,45 @@ Scratch project used to verify nemo-forge's edit/commit pipeline end to end. [�
 Identity-adapting ESP32 WiFi NAT router — MAC failover pooling, captive-portal watchdog, activity logging. [→ repo](https://github.com/mubeenhassanmeer/chameleonnat)
 </details>
 
-### 🦾 Past Robotics & Automation Projects
+### 🏗️ Funded R&D Projects — Creative Group of Companies
 
 <img align="right" src="https://raw.githubusercontent.com/mubeenhassanmeer/mubeenhassanmeer/main/assets/robot-build.svg" width="150" alt="robot stacking blocks" />
 
-*(built during coursework and internships — click any to expand, repos available on request)*
+*Team Lead on all three — reporting to the CEO, fund approvals & supplier sourcing, plus sole technical ownership (electronics, embedded coding, AI integration, debugging).*
+
+- 🤖 **[Autonomous Mobile Robot — Warehouse](https://github.com/mubeenhassanmeer/amr-warehouse-robot)** — 6-way shuttle AMR for AS/RS logistics · also my Final Year Project
+- 📦 **[Inventory Automation — Reverse Engineered](https://github.com/mubeenhassanmeer/inventory-automation-reverse-engineered)** — rebuilding an imported system for higher reliability, now in PCB design
+- 🖨️ **[3D Printer Build](https://github.com/mubeenhassanmeer/3d-printer-build)** — in-house build, now being reverse-engineered into a market-ready product
+
+<br clear="right"/>
+
+### 🦾 Coursework & Earlier Robotics Projects
+
+*(click any to expand)*
 
 <details>
 <summary>🦿 Lower Limb Exoskeleton</summary>
-<br>Assistive robotics project focused on gait support.
+<br>Electronics, coding, wiring & motor control lead for seniors' (F21 batch) Final Year Project — Arduino Mega + stepper motors via TB6600, gait-analysis-driven control. <a href="https://github.com/mubeenhassanmeer/lower-limb-exoskeleton">→ repo</a>
 </details>
 
 <details>
 <summary>🏭 Warehouse Automation Prototype</summary>
-<br>Prototype system for automating warehouse material movement.
+<br>Monolith-inspired pick-to-light demo (2-person team, ESP32-S3 + load cells) that fed into the funded inventory automation project above. <a href="https://github.com/mubeenhassanmeer/warehouse-automation-prototype">→ repo</a>
 </details>
 
 <details>
 <summary>🗑️ Bin-e Smart Waste Bin</summary>
-<br>A smart bin concept for automated waste sorting.
+<br>Hardware lead for a senior CS batch's FYP — Raspberry Pi 4 + webcam waste classification, ultrasonic + GPS. <a href="https://github.com/mubeenhassanmeer/bin-e-smart-waste-bin">→ repo</a>
 </details>
 
 <details>
 <summary>🚧 Obstacle Avoidance Robot</summary>
-<br>Autonomous navigation robot that senses and avoids obstacles.
+<br>ESP32 + ultrasonic sensing, 2WD chassis — semester project. <a href="https://github.com/mubeenhassanmeer/obstacle-avoidance-robot">→ repo</a>
 </details>
 
 <details>
-<summary>📣 UiPath Autonomous Outreach Robot</summary>
-<br>RPA-driven robot built for the Xcelerate outreach event.
+<summary>📣 UiPath Autonomous Outreach Bot</summary>
+<br>RPA bot for automated lead generation and personalized outreach. <a href="https://github.com/mubeenhassanmeer/uipath-autonomous-outreach-robot">→ repo</a>
 </details>
 
 <br clear="right"/>
