@@ -17,7 +17,7 @@ lately, things that think — spanning hardware robotics, RPA bots, and AI codin
 - 🎓 BS Robotics & Intelligent Systems, UCP (2023–2027)
 - 🧑‍💼 Vice President, **IEEE UCP Student Branch**
 - ⚙️ **R&D Engineer (Team Lead)** @ **Creative Group of Companies** — leading 3 funded projects: an autonomous warehouse robot (also my FYP), a reverse-engineered inventory automation system, and a 3D printer build
-- 🤝 Student Pedagogy Partner (AI) @ Learning Innovation Centre, UCP
+- 🤝 Student Pedagogy Partner @ Learning Innovation Centre, UCP — 2 semesters (Artificial Intelligence, then Discrete Mathematics)
 - 🏆 Emerging Star of the Year — IEEE Lahore Section, 2026
 
 <br clear="right"/>
@@ -64,6 +64,16 @@ Identity-adapting ESP32 WiFi NAT router — MAC failover pooling, captive-portal
 - 🖨️ **[3D Printer Build](https://github.com/mubeenhassanmeer/3d-printer-build)** — in-house build, now being reverse-engineered into a market-ready product
 
 <br clear="right"/>
+
+### 🎓 Teaching & Mentorship
+
+Student Pedagogy Partner at UCP's Learning Innovation Centre for two semesters — first
+redesigning the **Artificial Intelligence** course, then **Discrete Mathematics** — working
+with my faculty partner Dr. Nabeel Khalid on problem-based learning and "AI-resilient"
+evaluation design. Progress gets defended at formal department-wide mid-point and final
+review sessions. I've also mentored Grade 7 students at Beaconhouse School Valencia through
+their first engineering build, an automated plant-watering system.
+More on this → [mubeenhassanmeer.github.io#teaching](https://mubeenhassanmeer.github.io/#teaching)
 
 ### 🦾 Coursework & Earlier Robotics Projects
 
@@ -143,7 +153,7 @@ Identity-adapting ESP32 WiFi NAT router — MAC failover pooling, captive-portal
 
 <img align="right" src="https://raw.githubusercontent.com/mubeenhassanmeer/mubeenhassanmeer/main/assets/mail-wave.svg" width="100" alt="mail signal" />
 
-Open to connecting — drop a message via [GitHub](https://github.com/mubeenhassanmeer) or find me on LinkedIn.
+📧 [mubeenhassanmeer@gmail.com](mailto:mubeenhassanmeer@gmail.com) · 🌐 [Portfolio](https://mubeenhassanmeer.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/mubeen-hassan-automation-robotics)
 
 <br clear="right"/>
 
